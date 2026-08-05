@@ -13,7 +13,7 @@ const allowedOrigins = [
   'https://tremz.netlify.app',
   'https://oyzer.netlify.app',
   'https://mratz.netlify.app',
-  'https://fraqt.netlify.app',
+  'https://yamz.netlify.app',
   'https://gredq.netlify.app',
   'https://gbeq.netlify.app',
   'https://gredx.netlify.app',
