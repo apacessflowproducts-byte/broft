@@ -15,6 +15,7 @@ const allowedOrigins = [
   'https://mratz.netlify.app',
   'https://yamz.netlify.app',
   'https://gredq.netlify.app',
+  'https://bostont.netlify.app',
   'https://gbeq.netlify.app',
   'https://gredx.netlify.app',
   'https://jhvnb.vercel.app',
