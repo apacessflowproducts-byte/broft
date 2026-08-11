@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 3000;
 const allowedOrigins = [
   'http://127.0.0.1:5000',
   'https://tremz.netlify.app',
-  'https://oyzer.netlify.app',
+  'https://freqz.netlify.app',
   'https://mratz.netlify.app',
   'https://yamz.netlify.app',
   'https://gredq.netlify.app',
