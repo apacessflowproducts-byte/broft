@@ -16,7 +16,7 @@ const allowedOrigins = [
   'https://yamz.netlify.app',
   'https://gredq.netlify.app',
   'https://bostont.netlify.app',
-  'https://gbeq.netlify.app',
+  'https://gretz.netlify.app',
   'https://gredx.netlify.app',
   'https://jhvnb.vercel.app',
    // add all your trusted frontends here
