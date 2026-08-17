@@ -12,7 +12,7 @@ const allowedOrigins = [
   'http://127.0.0.1:5000',
   'https://tremz.netlify.app',
   'https://freqz.netlify.app',
-  'https://mratz.netlify.app',
+  'https://ewbell.netlify.app',
   'https://yamz.netlify.app',
   'https://gredq.netlify.app',
   'https://bostont.netlify.app',
